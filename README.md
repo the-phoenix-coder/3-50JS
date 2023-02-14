@@ -15,6 +15,6 @@ HTML, CSS and JavaScript
   <tbody>
     <td>02</td>
     <td><a href="https://github.com/the-phoenix-coder/50-50JS/tree/main/Progress-Steps">Progress Steps</a></td>
-    <td><a href="https://expanding-cards-omega-swart.vercel.app/">Live</a></td>
+    <td><a href="https://progress-steps-gilt.vercel.app/">Live</a></td>
   </tbody>
 </table>
