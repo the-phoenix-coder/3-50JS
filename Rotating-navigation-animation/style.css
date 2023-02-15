@@ -1,0 +1,12 @@
+:root {
+    --main-clr: #FAFAFA;
+    --primary-clr: #333;
+    --accent-clr: #F79;
+}
+*,
+*::before,
+*::after {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
