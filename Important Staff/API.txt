@@ -1,5 +1,0 @@
-// const link = "https://api.escuelajs.co/api/v1/products"
-
-// fetch(link)
-//     .then(res => res.json())
-//     .then(data => console.log(data))
