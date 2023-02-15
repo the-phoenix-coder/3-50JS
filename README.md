@@ -19,7 +19,7 @@ HTML, CSS and JavaScript
   </tbody>
   <tbody>
     <td>03</td>
-    <td><a href="https://github.com/the-phoenix-coder/50-50JS/tree/main/rotating-navigation-animation">Rotating Navigation Animation</a></td>
+    <td><a href="https://github.com/the-phoenix-coder/50-50JS/tree/main/Rotating-navigation-animation">Rotating Navigation Animation</a></td>
     <td><a href="">Live</a></td>
   </tbody>
 </table>
